@@ -7,7 +7,7 @@ client = OpenAI()
 
 response = client.responses.create(
     model="gpt-5.2",
-    input="what is the process to make a cup of tea?"
+    input="what is the weather in delhi, india today?"
 )
 
 print(response.output_text)
