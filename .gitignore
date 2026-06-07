@@ -3,3 +3,4 @@ venv1
 .env
 *.pdf
 __pycache__
+.guardrails
