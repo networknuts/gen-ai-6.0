@@ -2,8 +2,8 @@ import re
 
 USER_INPUT = """
 Hello, my name is aryan and my email is 
-ARYAN@NETWORKNUTS.NET. Please draft from my prespective
-to my employer which is info@networknuts.net asking for
+ARYAN@example.com. Please draft from my prespective
+to my employer which is info@example.net asking for
 7 days off.
 """
 

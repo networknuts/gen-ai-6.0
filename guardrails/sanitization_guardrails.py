@@ -8,9 +8,9 @@ guard = Guard().use(
 USER_INPUT = """
 Hello, my name is aryan. please write an email draft with the following info:
 subject: request for 7 PTO
-my email: aryan@networknuts.net
-my phone number: 9326532664
-receiver email: info@networknuts.net
+my email: aryan@example.com
+my phone number: 999999999
+receiver email: info@example.com
 """
 
 try:
